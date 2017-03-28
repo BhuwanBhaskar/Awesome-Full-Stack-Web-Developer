@@ -1,0 +1,67 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta http-equiv="Content-Style-Type" content="text/css" />
+  <meta name="generator" content="pandoc" />
+  <title></title>
+  <style type="text/css">code{white-space: pre;}</style>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS_CHTML-full" type="text/javascript"></script>
+</head>
+<body>
+<h1 id="algorithm-analysis">Algorithm Analysis</h1>
+<h2 id="logarithmic-review">Logarithmic Review</h2>
+<ul>
+<li><p><span class="math inline">\({log({a^b})}={b . log(a)}\)</span></p></li>
+<li><p><span class="math inline">\({log_b ({a}) = {c}} \leftrightarrow {b^c} = {a}\)</span></p></li>
+<li><p><span class="math inline">\({log_a({n})} = \frac{log_b(n)}{log_b({a})}\)</span></p></li>
+</ul>
+<h2 id="big-theta-big-theta-notation">Big-<span class="math inline">\(\theta\)</span> (Big-Theta) notation</h2>
+<p><img src="./../img/big_theta_notation.png" alt="Big-\theta notation" /></p>
+<ul>
+<li>When we say that particular running time is <span class="math inline">\(\theta\)</span>(<span class="math inline">\({n}\)</span>) it means that when <span class="math inline">\({n}\)</span> gets big enough, runnig time will be at least k<span class="math inline">\(_{\text{1}}\)</span> * <span class="math inline">\({n}\)</span> and at most k<span class="math inline">\(_{\text{2}}\)</span> * <span class="math inline">\({n}\)</span> for some constant k<span class="math inline">\(_{\text{1}}\)</span> \&amp; k<span class="math inline">\(_{\text{2}}\)</span>.</li>
+<li>For small values of n we do not care how running time compares to k<span class="math inline">\(_{\text{1}}\)</span> * <span class="math inline">\({n}\)</span> and k<span class="math inline">\(_{\text{2}}\)</span> * <span class="math inline">\({n}\)</span>.</li>
+<li>We are not stricted to <span class="math inline">\({n}\)</span> we can use any function as <span class="math inline">\({n^2}\)</span> or <span class="math inline">\({n}*{log(n)}\)</span> or any function.</li>
+<li>We are usually using <span class="math inline">\({log({n}})\)</span> or <span class="math inline">\(log_2({n})\)</span> in <span class="math inline">\(\theta\)</span> notation ............... look at equation(2)</li>
+</ul>
+<h4 id="order-or-growth">1. Order or growth</h4>
+<ul>
+<li>constant <span class="math inline">\(\theta\)</span>{n}</li>
+<li>Logarithmic <span class="math inline">\(\theta(lg({n}))\)</span></li>
+<li>polynomials <span class="math inline">\(\theta({n}), (\theta({n^2}), (\theta({n^3}), ...\)</span></li>
+<li>exponentials <span class="math inline">\(\theta({2^n})\)</span></li>
+</ul>
+<h4 id="hints">2. Hints</h4>
+<ul>
+<li><span class="math inline">\({5^{log_2({n})}} = {n^{log_2(5)}} = {n^{2.321}}\)</span> ,</li>
+<li><span class="math inline">\(\sqrt(n)= n^\frac{1}{2}\)</span></li>
+<li><span class="math inline">\({2^{2n}}={(2^2)^n}={4^n}\)</span>.</li>
+</ul>
+<h2 id="big-o-notation">Big-O notation</h2>
+<p><img src="./../img/big_o_notation.png" alt="Big-O notation" /></p>
+<ul>
+<li>We use big-O notation for asymptotic upper bounds, since it bounds the growth of the running time from above for large enough input sizes.</li>
+<li>Big O notation is only giving the maximum running time with out caring about the minimum.</li>
+<li>Recall that we write f(n)=O(g(n)) to express the fact that f(n) grows no faster than g(n): there exist constants N and c&gt;0 so that for all n <span class="math inline">\(\ge\)</span> N, f(n) <span class="math inline">\(\le\)</span> c * g(n).</li>
+</ul>
+<h2 id="big-omega-notation">Big-<span class="math inline">\(\Omega\)</span> notation</h2>
+<p><img src="./../img/big_omega_notation.png" alt="Big-\Omega notation" /></p>
+<ul>
+<li>We use big-<span class="math inline">\(\Omega\)</span> notation for asymptotic lower bounds.</li>
+<li>We use it to say that it will take at least this amount of time to run this algorithm.</li>
+</ul>
+<p>Examples:</p>
+<ul>
+<li>For the functions, <span class="math inline">\({n^k}\)</span>, <span class="math inline">\({c^n}\)</span>​​, what is the asymptotic relationship between these functions? Assume that k &gt;= 1 and c &gt; 1 are constants.
+<ul>
+<li>Answer: <span class="math inline">\({n^k}\)</span> is O(<span class="math inline">\({c^n}\)</span>)</li>
+</ul></li>
+<li>For the functions, <span class="math inline">\({8^n}\)</span>, <span class="math inline">\({4^n}\)</span>, what is the asymptotic relationship between these functions?
+<ul>
+<li>Answer: <span class="math inline">\({8^n}\)</span> is <span class="math inline">\(\Omega({4^n})\)</span></li>
+</ul></li>
+</ul>
+<h2 id="build">Build</h2>
+<pre><code>pandoc --standalone --mathjax --from markdown_github-blank_before_header+tex_math_dollars+tex_math_single_backslash+latex_macros algorithm_analysis.md --output=algorithm_analysis.html</code></pre>
+</body>
+</html>

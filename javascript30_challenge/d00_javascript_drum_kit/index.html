@@ -1,0 +1,177 @@
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="Drum Kit build only using Vanilla JavaScript">
+  <meta name="keywords" content="HTML,CSS,JavaScript">
+  <meta name="author" content="Anas Aboureada">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+  <title>JavaScript Drum Machine</title>
+</head>
+
+<body>
+  <header>
+    <h1>JavaScript Drum Kit</h1>
+  </header>
+  <main>
+
+    <div class="key-container">
+      <div class="key"  data-key="65">
+        <div class="letter">A</div>
+        <div class="sound-name">HiHat 1</div>
+      </div>
+
+      <div class="key" data-key="83">
+        <div class="letter">S</div>
+        <div class="sound-name">HiHat 2</div>
+      </div>
+    </div>
+
+    <div class="key-container">
+      <div class="key" data-key="68">
+        <div  class="letter">D</div>
+        <div class="sound-name">Snare 1</div>
+      </div>
+
+      <div class="key" data-key="70">
+        <div class="letter">F</div>
+        <div class="sound-name">Snare 2</div>
+      </div>
+
+      <div class="key" data-key="71">
+        <div class="letter">G</div>
+        <div class="sound-name">Snare 3</div>
+      </div>
+
+      <div class="key" data-key="72">
+        <div class="letter">H</div>
+        <div class="sound-name">Snare 4</div>
+      </div>
+
+      <div class="key" data-key="74">
+        <div class="letter">J</div>
+        <div class="sound-name">Snare 5</div>
+      </div>
+    </div>
+    
+    <div class="key-container">
+      <div class="key" data-key="75">
+        <div class="letter">K</div>
+        <div class="sound-name">Bass Drum 1</div>
+      </div>
+
+      <div class="key" data-key="76">
+        <div class="letter">L</div>
+        <div class="sound-name">Bass Drum 2</div>
+      </div>
+    </div>
+
+    <div class="key-container">
+      <div class="key" data-key="90">
+        <div class="letter">Z</div>
+        <div class="sound-name">Ride Cymbal 1</div>
+      </div>
+
+      <div class="key" data-key="88">
+        <div class="letter">X</div>
+        <div class="sound-name">Ride Cymbal 2</div>
+      </div>
+
+      <div class="key" data-key="67">
+        <div class="letter">C</div>
+        <div class="sound-name">Ride Cymbal 3</div>
+      </div>
+
+      <div class="key" data-key="86">
+        <div class="letter">V</div>
+        <div class="sound-name">Ride Cymbal 4</div>
+      </div>
+
+      <div class="key" data-key="66">
+        <div class="letter">B</div>
+        <div class="sound-name">Ride Cymbal 5</div>
+      </div>
+      
+      <div class="key" data-key="78">
+        <div class="letter">N</div>
+        <div class="sound-name">Ride Cymbal 5</div>
+      </div>
+    </div>
+
+    <div class="key-container">
+      <div class="key" data-key="77">
+        <div class="letter">M</div>
+        <div class="sound-name">Brush 1</div>
+      </div>
+
+      <div class="key" data-key="188">
+        <div class="letter">,</div>
+        <div class="sound-name">Brush 2</div>
+      </div>
+    </div>
+
+    <audio data-key="65">
+      <source src="audio/JK_HH_01.wav" type="audio/wav">
+    </audio>
+    <audio data-key="83">
+      <source src="audio/JK_HH_02.wav" type="audio/wav">
+    </audio>
+   
+    <audio data-key="68">
+      <source src="audio/JK_SNR_01.wav" type="audio/wav">
+    </audio>
+    <audio data-key="70">
+      <source src="audio/JK_SNR_02.wav" type="audio/wav">
+    </audio>
+    <audio data-key="71">
+      <source src="audio/JK_SNR_03.wav" type="audio/wav">
+    </audio>
+    <audio data-key="72">
+      <source src="audio/JK_SNR_04.wav" type="audio/wav">
+    </audio>
+    <audio data-key="74">
+      <source src="audio/JK_SNR_07.wav" type="audio/wav">
+    </audio>
+    
+    <audio data-key="75">
+      <source src="audio/JK_BD_02.wav" type="audio/wav">
+    </audio>
+    <audio data-key="76">
+      <source src="audio/JK_BD_06.wav" type="audio/wav">
+    </audio>
+   
+    <audio data-key="90">
+      <source src="audio/JK_PRC_03.wav" type="audio/wav">
+    </audio>
+    <audio data-key="88">
+      <source src="audio/JK_PRC_04.wav" type="audio/wav">
+    </audio>
+    <audio data-key="67">
+      <source src="audio/JK_PRC_05.wav" type="audio/wav">
+    </audio>
+    <audio data-key="86">
+      <source src="audio/JK_PRC_06.wav" type="audio/wav">
+    </audio>
+    <audio data-key="66">
+      <source src="audio/JK_PRC_09.wav" type="audio/wav">
+    </audio>
+    <audio data-key="78">
+      <source src="audio/JK_PRC_10.wav" type="audio/wav">
+    </audio>
+
+    <audio data-key="77">
+      <source src="audio/JK_BRSH_01.wav" type="audio/wav">
+    </audio>
+    <audio data-key="188">
+      <source src="audio/JK_BRSH_02.wav" type="audio/wav">
+    </audio>
+    
+
+    <script src="app.js"></script>
+
+    </audio>
+  </main>
+</body>
+
+</html>

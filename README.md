@@ -10,7 +10,8 @@
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-I am collecting all the tutorials, books, cheat sheets, scripts, tools, interview questions, even my own solutions to algorithmic puzzles and coding challenges in this repository trying to make it a good reference to help all web developers. Please feel free to add more links of resources to the repository to help more people.
+- I am collecting all the tutorials, books, cheat sheets, scripts, tools, interview questions, even my own solutions to algorithmic puzzles and coding challenges in this repository trying to make it a good reference to help all web developers. Please feel free to add more links of resources to the repository to help more people.
+
 ---------
 
 ## Table of content

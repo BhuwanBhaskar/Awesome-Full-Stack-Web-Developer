@@ -65,8 +65,8 @@
 
 ### Courses
 
-- Algorithms, Part I, Princeton University [Coursera Link](https://www.coursera.org/learn/algorithms-part1) - [Local Link](./algorithms/courses/algorithms_p1)
-- Algorithms, Part II, Princeton University [Coursera Link](https://www.coursera.org/learn/algorithms-part2) - [Local Link](./algorithms/courses/algorithms_p2)
+- Algorithms, Part I, Princeton University [Coursera Link](https://www.coursera.org/learn/algorithms-part1)
+- Algorithms, Part II, Princeton University [Coursera Link](https://www.coursera.org/learn/algorithms-part2)
 
 ### Search Algorithms
 

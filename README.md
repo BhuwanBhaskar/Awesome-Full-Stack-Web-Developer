@@ -6,11 +6,9 @@
 @Copyright: Copyright (c) 2017 Anas Aboureada
 -->
 
-# Awesome Full-Stack Web Developer
+# Awesome Full-Stack Web Developer Engineer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-
-- I am collecting all the tutorials, books, cheat sheets, scripts, tools, interview questions, even my own solutions to algorithmic puzzles and coding challenges in this repository trying to make it a good reference to help all web developers. Please feel free to add more links to resources to the repository to help more people.
+I am collecting all the tutorials, books, cheat sheets, scripts I am using to automate stuff, tools, interview questions, even my own solutions to algorithmic puzzles and coding challenges in this repository trying to make it a good reference to help all web developers including myself. Please feel free to add more links of resources to the repository to help more people.
 
 ---------
 
@@ -24,11 +22,14 @@
   - [Courses](#courses)
   - [Search Algorithms](#search-algorithms)
   - [Problem & Solutions](#problem--solutions)
-- [Important Topics](#important-topics)
+- [Important Articles / Topics](#important-articles--topics)
   - [JavaScript](#javascript)
   - [CSS](#css)
+  - [React & Redux](#react--redux)
   - [HTML](#html)
   - [General](#general)
+- [Learning resources](#learning-resources)
+- [Developer Tools resources](#developer-tools-resources)
 - [Books](#books)
 - [Cheat Sheets](#cheat-sheets)
 - [Interview Questions](#interview-questions)
@@ -36,10 +37,10 @@
 - [Code snippets](#code-snippets)
 - [Programming Challenges](#programming-challenges)
 - [Games to learn Programming](#games-to-learn-programming)
-- [Full Stack Web Developer courses](#full-stack-web-developer-courses)
 - [Contributing to open source](#contributing-to-open-source)
 - [Companies to apply to](#companies-to-apply-to)
 - [Related Awesome Lists](#related-awesome-lists)
+- [Credits](#credits)
 - [Contribute](#contribute)
 - [License](#license)
 
@@ -51,7 +52,7 @@
 
 - [Arrays](./data_structure/00_array.md)
 - [Linked List](./data_structure/01_linked_list.md)
-- [Stack](./data_structure/02_stack.md)
+- [Stack](./data_structure/02_stack.md)Ï
 - [Queue](./data_structure/03_queue.md)
 
 ---------
@@ -78,10 +79,11 @@
 
 ---------
 
-## Important Topics
+## Important Articles / Topics
 
 ### JavaScript
 
+- [ES6 Features](https://github.com/rse/es6-features) ECMAScript 6: Feature Overview & Comparison
 - [Dependency Injection basics (video)](https://www.youtube.com/watch?v=0X1Ns2NRfks)
 - [Functional programming in JavaScript (video playlist)](https://www.youtube.com/playlist?list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84)
 - [Object Creation in JavaScript (video playlist)](https://www.youtube.com/playlist?list=PL0zVEGEvSaeHBZFy6Q8731rcwk0Gtuxub)
@@ -90,6 +92,9 @@
 - [JavaScript Hoisting](https://www.w3schools.com/js/js_hoisting.asp)
 - [Closure](./notes/closure.md)
 - [this keyword](./notes/this_parameter.md)
+- [Master the JavaScript Interview: What is Functional Programming?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-functional-programming-7f218c68b3a0)
+- [Master the JavaScript Interview: What is a Closure?](https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36)
+- [Master the JavaScript Interview: What’s the Difference Between Class & Prototypal Inheritance?](https://medium.com/javascript-scene/master-the-javascript-interview-what-s-the-difference-between-class-prototypal-inheritance-e4cd0a7562e9)
 
 ### CSS
 
@@ -100,6 +105,11 @@
 - [Keyframe Animation Syntax](https://css-tricks.com/snippets/css/keyframe-animation-syntax/)
 - [css animation](https://css-tricks.com/almanac/properties/a/animation/)
 
+### React & Redux
+
+- [Getting started with redux](https://egghead.io/courses/getting-started-with-redux)
+
+
 ### HTML
 
 - [glyphs](https://css-tricks.com/snippets/html/glyphs/)
@@ -109,6 +119,111 @@
 - [You Do Not Need Jquery](./notes/you_do_not_need_jquery.md)
 - [Scalability (video)](https://www.youtube.com/watch?v=-W9F__D3oY4)
 - [What is Agile](http://www.agilenutshell.com/)
+
+---------
+
+## Learning resources
+
+- [Learn Accessibility](./learning/accessibility.md)
+- [Learn Web Animation](./learning/animation.md)
+- [Learn APIs](./learning/apis.md)
+- [Learn Authentication](./learning/auth.md)
+- [Learn Web Browsers](./learning/browsers.md)
+- [Learn Web Developer Tools](./learning/browser-dev-tools.md)
+- [Learn Computer Science via JS](./learning/cs.md)
+- [Learn Command Line](./learning/cli.md)
+- [Learn Build and Task Automation](./learning/build.md)
+- [Directed Learning](./learning/courses.md)
+- [Learn CSS](./learning/css.md)
+- [Learn Data (i.e. JSON) API Design](./learning/data-api.md)
+- [Directed Learning](./learning/direct-learning.md)
+- [Learn Databases](./learning/db.md)
+- [Learn Front-End Application Architecture](./learning/front-end-apps.md)
+- [Learn Domain Name System (aka DNS)](./learning/dns.md)
+- [Learn Web Fonts & Icons](./learning/fonts.md)
+- [Learn DOM, BOM, & jQuery](./learning/dom.md)
+- [Learn Git](./learning/git.md)
+- [Learn General Front-End Development](./learning/front-end.md)
+- [Full Stack Tutorials](./learning/fullstack.md)
+- [Learn Headless Browsers](./learning/headless-browsers.md)
+- [Learn HTML & CSS](./learning/html-css.md)
+- [Learn Web Hosting](./learning/hosting.md)
+- [Learn HTTP/Networks (Including CORS & WebSockets)](./learning/http-networks.md)
+- [Learn JS API Design](./learning/js-api.md)
+- [Learn Internet/Web](./learning/internet.md)
+- [Learn JSON (JavaScript Object Notation)](./learning/json.md)
+- [Learn JavaScript](./learning/javascript.md)
+- [Front-End Developers to Learn From](./learning/learn-from.md)
+- [Learn Modules](./learning/module.md)
+- [Learn Module loaders/bundlers](./learning/module-bundlers-loaders.md)
+- [Learn Multi-Device Development](./learning/multi-device-dev.md)
+- [Front-End Newsletters, News Sites, &amp; Podcasts](./learning/news-podcasts.md)
+- [Learn Node JS](./learning/nodejs.md)
+- [Learn Offline Development](./learning/offline.md)
+- [Learn Site Performance Optimization](./learning/perf.md)
+- [Learn Node.js](./learning/node.md)
+- [Learn Package Manager](./learning/package-manager.md)
+- [Learn Progressive Web App](./learning/pwa.md)
+- [Learn Web/Browser/App Security](./learning/security.md)
+- [Learn Python](./learning/python.md)
+- [Learn React & Redux](./learning/react-redux.md)
+- [Self Directed Learning](./learning/self-direct-learning.md)
+- [Learn Search Engine Optimization](./learning/seo.md)
+- [Learn JS Templates](./learning/templates.md)
+- [Learn Testing](./learning/test.md)
+- [Learn Static Site Generators](./learning/static.md)
+- [Learn Web/Browser APIs](./learning/web-api.md)
+- [Learn Version Control](./learning/version-control.md)
+- [Learn User Interface/Interaction Design](./learning/ui-design-patterns.md)
+
+---------
+
+## Developer Tools resources
+
+- [Accessibility Tools](./tools/accessibility.md)
+- [Back-end/API tools](./tools/baas.md)
+- [App Frameworks (Desktop, Mobile, Tablet, etc.) Tools](./tools/apps.md)
+- [Animation Tools](./tools/animation.md)
+- [Doc/API Browsing Tools](./tools/browsedocs.md)
+- [Browser Tools](./tools/browser.md)
+- [Data Visualization (e.g., Charts) Tools](./tools/charting.md)
+- [Collaboration & Communication Tools](./tools/comm.md)
+- [Code Editing Tools](./tools/code-editor.md)
+- [CSS Tools](./tools/css.md)
+- [Content Management Hosted/API Tools](./tools/cms.md)
+- [Front-End Data Storage Tools (i.e. Data storage solution in the client)](./tools/db.md)
+- [Deployment Tools](./tools/deploy.md)
+- [General Front-End Development Tools](./tools/dev-tools.md)
+- [Diagramming Tools](./tools/diagram.md)
+- [JavaScript Error Reporting/Monitoring](./tools/error.md)
+- [DOM Tools](./tools/dom.md)
+- [Font Tools](./tools/fonts.md)
+- [Tools for Finding Tools](./tools/find-tools.md)
+- [Graphics (e.g., SVG, canvas, webgl) Tools](./tools/graphics.md)
+- [Hosting Tools](./tools/hosting.md)
+- [HTTP/Network Tools](./tools/http.md)
+- [HTML Tools](./tools/html.md)
+- [Module Loading/Bundling Tools](./tools/loaders.md)
+- [JSON Tools](./tools/json.md)
+- [JavaScript Tools](./tools/js.md)
+- [Offline Tools](./tools/offline.md)
+- [Placeholder Content Tools](./tools/placeholder.md)
+- [Performance Tools](./tools/perf.md)
+- [Project Management & Code Hosting Tools](./tools/project-hosting.md)
+- [Prototyping & WireFraming Tools](./tools/proto.md)
+- [Progressive Web App Tools:](./tools/pwa.md)
+- [Module/Package Repository Tools](./tools/repo.md)
+- [Scaffolding Tools](./tools/scaffolding.md)
+- [Security Tools](./tools/security.md)
+- [Static Site Generators Tools](./tools/static.md)
+- [SEO Tools](./tools/seo.md)
+- [Tasking (aka Build) Tools](./tools/task.md)
+- [SVG Tools](./tools/svg.md)
+- [Testing Tools](./tools/testing.md)
+- [Templating/Data Binding Tools](./tools/templates.md)
+- [UI Widget & Component Toolkits](./tools/ui.md)
+- [Site/App Monitoring Tools](./tools/uptime.md)
+
 
 ---------
 
@@ -123,6 +238,8 @@
 - [Single page apps in depth](./books/single_page_app.pdf)
 - [Distributed systems: for fun and profit](./books/distributed_systems.pdf)
 - [Eloquent JavaScript](./books/eloquent_javaScript.pdf)
+
+---------
 
 ## Cheat Sheets
 
@@ -163,6 +280,7 @@
 - [Code Wars](https://www.codewars.com/)
 - [Coding Game](https://www.codingame.com)
 - [Hacker Rank](https://www.hackerrank.com)
+- [Interactive Coding Challenges](https://github.com/donnemartin/interactive-coding-challenges)
 
 ---------
 
@@ -174,45 +292,6 @@
 - [Coding Game](https://www.codingame.com)
 - [Elevator Saga - JS](http://play.elevatorsaga.com/)
 - [Hacked - Mobile App teaching through puzzles](http://www.hackedapp.com/)
-
----------
-
-## Full Stack Web Developer courses
-
-These courses will prepare you for a job as a Full Stack Web Developer (Advanced Level), and teach
-you to build complex server-side web applications that use powerful relational
-databases to persistently store data.
-
-You’ll learn to build applications that can support any front-end, and scale to
-support hundreds of thousands of users.
-
-1. [Programming Foundations with Python](https://www.udacity.com/courses/programming-foundations-with-python--ud036)
-1. [Intro to HTML and CSS](https://www.udacity.com/courses/intro-to-html-and-css--ud304)
-1. [Responsive Web Design Fundamentals](https://www.udacity.com/courses/responsive-web-design-fundamentals--ud893)
-1. [Responsive Images](https://www.udacity.com/courses/responsive-images--ud882)
-1. [JavaScript Basics](https://www.udacity.com/courses/javascript-basics--ud804)
-1. [Intro to jQuery](https://www.udacity.com/courses/intro-to-jquery--ud245)
-1. [Object-Oriented JavaScript](https://www.udacity.com/courses/object-oriented-javascript--ud015)
-1. [HTML5 Canvas](https://www.udacity.com/courses/html5-canvas--ud292)
-1. [Website Performance Optimization](https://www.udacity.com/courses/website-performance-optimization--ud884)
-1. [Browser Rendering Optimization](https://www.udacity.com/courses/browser-rendering-optimization--ud860)
-1. [Intro to Back-end](https://www.udacity.com/course/intro-to-backend--ud171)
-1. [Intro to Relational Databases](https://www.udacity.com/courses/intro-to-relational-databases--ud197)
-1. [Full Stack Foundations](https://www.udacity.com/courses/full-stack-foundations--ud088)
-1. [Authentication & Authorization: OAuth](https://www.udacity.com/courses/authentication-authorization-oauth--ud330)
-1. [Intro to AJAX](https://www.udacity.com/courses/intro-to-ajax--ud110)
-1. [JavaScript Design Patterns](https://www.udacity.com/courses/javascript-design-patterns--ud989)
-1. [Developing Scalable Apps in Python](https://www.udacity.com/courses/developing-scalable-apps-in-python--ud858)
-1. [Linux Command Line Basics](https://www.udacity.com/courses/linux-command-line-basics--ud595)
-1. [Configuring Linux Web Servers](https://www.udacity.com/courses/configuring-linux-web-servers--ud299)
-1. [JavaScript Testing](https://www.udacity.com/courses/javascript-testing--ud549)
-1. [Building High Conversion Web Forms](https://www.udacity.com/courses/building-high-conversion-web-forms--ud890)
-1. [Web Tooling & Automation](https://www.udacity.com/courses/web-tooling-automation--ud892)
-1. [JavaScript Promises](https://www.udacity.com/courses/javascript-promises--ud898)
-1. [Offline Web Applications](https://www.udacity.com/courses/offline-web-applications--ud899)
-1. [Web Accessibility](https://www.udacity.com/course/web-accessibility--ud891)
-1. [Front-End Frameworks](https://www.udacity.com/courses/front-end-frameworks--ud894)
-1. [Client-Server Communications](https://www.udacity.com/course/client-server-communication--ud897)
 
 ---------
 
@@ -233,8 +312,17 @@ support hundreds of thousands of users.
 
 - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
 - [Awesome AngularJS](https://github.com/gianarb/awesome-angularjs)
-- [Become A Full-Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
 - [Essential JavaScript Links](https://github.com/ericelliott/essential-javascript-links)
+- [Public Apis](https://github.com/toddmotto/public-apis) 
+
+---------
+
+## Credits
+
+Thanks to those awesome guys
+
+- [Brandon Morelli](https://github.com/bmorelli25)  owner of [Become A Full-Stack Web Developer](https://github.com/bmorelli25/Become-A-Full-Stack-Web-Developer)
+- [FrontendMasters](https://github.com/FrontendMasters) owners of [Front-End Handbook](https://github.com/FrontendMasters/front-end-handbook-2017)
 
 ---------
 

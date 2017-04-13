@@ -29,7 +29,7 @@ I am collecting all the tutorials, books, cheat sheets, scripts I am using to au
   - [HTML](#html)
   - [General](#general)
 - [Learning resources](#learning-resources)
-- [Developer Tools resources](#developer-tools-resources)
+- [Developer Tools](#developer-tools)
 - [Books](#books)
 - [Cheat Sheets](#cheat-sheets)
 - [Interview Questions](#interview-questions)
@@ -178,7 +178,7 @@ I am collecting all the tutorials, books, cheat sheets, scripts I am using to au
 
 ---------
 
-## Developer Tools resources
+## Developer Tools
 
 - [Accessibility Tools](./tools/accessibility.md)
 - [Back-end/API tools](./tools/baas.md)

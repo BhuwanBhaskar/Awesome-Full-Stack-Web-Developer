@@ -1,2 +1,0 @@
-#!/bin/sh
-/usr/bin/openssl asn1parse -inform PEM -dump -i -in "$1"

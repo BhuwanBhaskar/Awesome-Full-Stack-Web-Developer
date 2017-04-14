@@ -1,2 +1,0 @@
-#!/bin/sh
-/usr/bin/openssl x509 -inform PEM -text -fingerprint

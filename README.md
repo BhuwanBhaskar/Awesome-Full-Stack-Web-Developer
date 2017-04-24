@@ -8,7 +8,7 @@
 
 # Awesome Full-Stack Web Developer Engineer [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-I am collecting all the tutorials, books, cheat sheets, scripts I am using to automate stuff, tools, interview questions, even my own solutions to algorithmic puzzles and coding challenges in this repository trying to make it a good reference to help all web developers including myself. Please feel free to add more links of resources to the repository to help more people.
+I am collecting all the tutorials, books, cheat sheets, tools and interview questions in this repository trying to make it a good reference to help all web developers including myself for being a better developer and getting ready for their next job. Please feel free to add more links of resources to the repository to help more people.
 
 ---------
 
@@ -167,6 +167,7 @@ I am collecting all the tutorials, books, cheat sheets, scripts I am using to au
 - [Learn Web/Browser/App Security](./learning/security.md)
 - [Learn Python](./learning/python.md)
 - [Learn React & Redux](./learning/react-redux.md)
+- [Learn Reactive Extensions for JavaScript](./learning/rxjs.md)
 - [Self Directed Learning](./learning/self-direct-learning.md)
 - [Learn Search Engine Optimization](./learning/seo.md)
 - [Learn JS Templates](./learning/templates.md)

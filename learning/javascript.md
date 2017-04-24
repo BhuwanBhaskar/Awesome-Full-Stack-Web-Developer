@@ -4,156 +4,128 @@
 
 ><cite>&#8212; [Wikipedia](https://en.wikipedia.org/wiki/JavaScript)</cite>
 
-## Getting Started:
+## Getting Started
 
-* [codecademy.com JavaScript](https://www.codecademy.com/en/tracks/javascript) [interact]
-* [JavaScript first steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps) [read]
-* [JavaScript building blocks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks) [read]
-* [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) [read]
-* [JavaScript object basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics) [read]
-* [Eloquent JavaScript](http://eloquentjavascript.net/) [read]
+- [codecademy.com JavaScript](https://www.codecademy.com/en/tracks/javascript) [interact]
+- [JavaScript first steps](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps) [read]
+- [JavaScript building blocks](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks) [read]
+- [JavaScript Enlightenment](http://www.javascriptenlightenment.com/) [read]
+- [JavaScript object basics](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Basics) [read]
+- [Eloquent JavaScript](http://eloquentjavascript.net/) [read]
 
-## General Learning:
+## General Learning
 
-* [Speaking JavaScript](http://speakingjs.com/es5/index.html) [read]
-* [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) [read]
-* [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) [read]
-* [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) [read]
-* [Gentle explanation of 'this' keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/) [read]
-* [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) [read]
+- [Speaking JavaScript](http://speakingjs.com/es5/index.html) [read]
+- [You Don't Know JS: Up & Going](https://github.com/getify/You-Dont-Know-JS/blob/master/up%20&%20going/README.md#you-dont-know-js-up--going) [read]
+- [You Don't Know JS: Types & Grammar](https://github.com/getify/You-Dont-Know-JS/blob/master/types%20&%20grammar/README.md#you-dont-know-js-types--grammar) [read]
+- [You Don't Know JS: Scope & Closures](https://github.com/getify/You-Dont-Know-JS/blob/master/scope%20&%20closures/README.md#you-dont-know-js-scope--closures) [read]
+- [Gentle explanation of 'this' keyword in JavaScript](http://rainsoft.io/gentle-explanation-of-this-in-javascript/) [read]
+- [You Don't Know JS: this & Object Prototypes](https://github.com/getify/You-Dont-Know-JS/blob/master/this%20&%20object%20prototypes/README.md#you-dont-know-js-this--object-prototypes) [read]
 
-## Mastering:
+## Mastering
 
-* [Setting up ES6](https://leanpub.com/setting-up-es6) [read]
-* [ES6 FOR EVERYONE!](https://es6.io/) [watch][$]
-* [Exploring ES6](http://exploringjs.com/es6.html) [read]
-* [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) [read]
-* [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://www.amazon.com/Understanding-ECMAScript-Definitive-JavaScript-Developers/dp/1593277571/ref=as_li_ss_tl?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=1ca4f5f23b42aeadad0990ab3bf91ca7&camp=1789&creative=9325) [read]
-* [ES6: The Right Parts](https://frontendmasters.com/courses/es6-right-parts/) [watch][$]
-* [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017.html) [read]
-* [JavaScript Regular Expression Enlightenment](http://codylindley.com/techpro/2013_05_14__javascript-regular-expression-/) [read]
-* [Using Regular Expressions](http://www.lynda.com/Regular-Expressions-tutorials/Using-Regular-Expressions/85870-2.html) [watch][$]
-* [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) [read]
-* [JavaScript with Promises](http://www.amazon.com/JavaScript-Promises-Daniel-Parker/dp/1449373216/ref=pd_sim_sbs_14_5) [read][$]
-* [Test-Driven JavaScript Development](http://www.amazon.com/dp/0321683919/) [read][$]
-* [JS MythBusters](https://mythbusters.js.org/index.html) [read]
+- [Setting up ES6](https://leanpub.com/setting-up-es6) [read]
+- [ES6 FOR EVERYONE!](https://es6.io/) [watch][$]
+- [Exploring ES6](http://exploringjs.com/es6.html) [read]
+- [You Don't Know JS: ES6 & Beyond](https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&%20beyond/README.md#you-dont-know-js-es6--beyond) [read]
+- [Understanding ECMAScript 6: The Definitive Guide for JavaScript Developers](https://www.amazon.com/Understanding-ECMAScript-Definitive-JavaScript-Developers/dp/1593277571/ref=as_li_ss_tl?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=1ca4f5f23b42aeadad0990ab3bf91ca7&camp=1789&creative=9325) [read]
+- [ES6: The Right Parts](https://frontendmasters.com/courses/es6-right-parts/) [watch][$]
+- [Exploring ES2016 and ES2017](http://exploringjs.com/es2016-es2017.html) [read]
+- [JavaScript Regular Expression Enlightenment](http://codylindley.com/techpro/2013_05_14__javascript-regular-expression-/) [read]
+- [Using Regular Expressions](http://www.lynda.com/Regular-Expressions-tutorials/Using-Regular-Expressions/85870-2.html) [watch][$]
+- [You Don't Know JS: Async & Performance](https://github.com/getify/You-Dont-Know-JS/blob/master/async%20&%20performance/README.md#you-dont-know-js-async--performance) [read]
+- [JavaScript with Promises](http://www.amazon.com/JavaScript-Promises-Daniel-Parker/dp/1449373216/ref=pd_sim_sbs_14_5) [read][$]
+- [Test-Driven JavaScript Development](http://www.amazon.com/dp/0321683919/) [read][$]
+- [JS MythBusters](https://mythbusters.js.org/index.html) [read]
+- [Asynchronous Programming: The End of The Loop](https://egghead.io/courses/mastering-asynchronous-programming-the-end-of-the-loop)
 
-## Functional JavaScript:
+## Functional JavaScript
 
-* [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon#functional-programming-jargon)
-* [funfunfunction: Functional programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) [watch]
-* [Functional-Light-JS](https://github.com/getify/Functional-Light-JS) [read]
-* [Functional Programming in JavaScript: How to improve your JavaScript programs using functional techniques](https://www.amazon.com/Functional-Programming-JavaScript-functional-techniques/dp/1617292826/ref=sr_1_1?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=dcc6b0cb7de57fa841f1b178d2d54b9d&camp=1789&creative=9325) [read]
-* [Mostly adequate guide to FP (in javascript)](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) [read]
-* [JavaScript Allongé](https://leanpub.com/javascriptallongesix) [read][$]
-* [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) [watch][$]
-* [Functional-Lite JavaScript](https://frontendmasters.com/courses/functional-js-lite/) [watch][$]
+- [Functional Programming Jargon](https://github.com/hemanth/functional-programming-jargon#functional-programming-jargon)
+- [funfunfunction: Functional programming in JavaScript](https://www.youtube.com/watch?v=BMUiFMZr7vk&list=PL0zVEGEvSaeEd9hlmCXrk5yUyqUag-n84) [watch]
+- [Functional-Light-JS](https://github.com/getify/Functional-Light-JS) [read]
+- [Functional Programming in JavaScript: How to improve your JavaScript programs using functional techniques](https://www.amazon.com/Functional-Programming-JavaScript-functional-techniques/dp/1617292826/ref=sr_1_1?&_encoding=UTF8&tag=fronenddevejo-20&linkCode=ur2&linkId=dcc6b0cb7de57fa841f1b178d2d54b9d&camp=1789&creative=9325) [read]
+- [Mostly adequate guide to FP (in javascript)](https://drboolean.gitbooks.io/mostly-adequate-guide/content/) [read]
+- [JavaScript Allongé](https://leanpub.com/javascriptallongesix) [read][$]
+- [Hardcore Functional Programming in JavaScript](https://frontendmasters.com/courses/functional-javascript/) [watch][$]
+- [Functional-Lite JavaScript](https://frontendmasters.com/courses/functional-js-lite/) [watch][$]
 
-## References/Docs:
+## References/Docs
 
-* [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
-* [MSDN JavaScrip Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0.aspx)
+- [MDN JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+- [MSDN JavaScrip Reference](https://msdn.microsoft.com/en-us/library/yek4tbz0.aspx)
 
-## Glossary/Encyclopedia/Jargon:
+## Glossary/Encyclopedia/Jargon
 
-* [The JavaScript Encyclopedia](http://www.crockford.com/javascript/encyclopedia/)
-* [JavaScript Glossary](https://www.codecademy.com/articles/glossary-javascript)
-* [Simplified JavaScript Jargon](http://jargon.js.org/)
+- [The JavaScript Encyclopedia](http://www.crockford.com/javascript/encyclopedia/)
+- [JavaScript Glossary](https://www.codecademy.com/articles/glossary-javascript)
+- [Simplified JavaScript Jargon](http://jargon.js.org/)
 
-## Standards/Specifications:
+## Standards/Specifications
 
-* [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/index.html)
-* [ECMAScript® 2016 Language Specification](https://www.ecma-international.org/ecma-262/7.0/)
-* [ECMAScript® 2017 Language Specification](https://tc39.github.io/ecma262/)
-* [Status, Process, and Documents for ECMA262](https://github.com/tc39/ecma262)
+- [ECMAScript® 2015 Language Specification](http://www.ecma-international.org/ecma-262/6.0/index.html)
+- [ECMAScript® 2016 Language Specification](https://www.ecma-international.org/ecma-262/7.0/)
+- [ECMAScript® 2017 Language Specification](https://tc39.github.io/ecma262/)
+- [Status, Process, and Documents for ECMA262](https://github.com/tc39/ecma262)
 
-## Style:
+## Style
 
-* [Airbnb JavaScript Style Guide](http://airbnb.io/javascript/)
-* [JavaScript Standard Style](http://standardjs.com/rules.html)
-* [JavaScript Semi-Standard Style](https://github.com/Flet/semistandard)
+- [Airbnb JavaScript Style Guide](http://airbnb.io/javascript/)
+- [JavaScript Standard Style](http://standardjs.com/rules.html)
+- [JavaScript Semi-Standard Style](https://github.com/Flet/semistandard)
 
-## JavaScript Newsletters, News, &amp; Podcasts:
+## JavaScript Newsletters, News, &amp; Podcasts
 
-* [Echo JS](http://www.echojs.com/)
-* [ECMAScript Daily](https://ecmascript-daily.github.io/)
-* [ES.next News](http://esnextnews.com/)
-* [FiveJS](https://fivejs.codeschool.com/)
-* [JavaScript Air](https://javascriptair.com/)
-* [JavaScript Jabber](https://devchat.tv/js-jabber/)
-* [JavaScript Kicks](http://javascriptkicks.com/)
-* [JavaScript Live](https://jslive.com/)
-* [JavaScript Weekly](http://javascriptweekly.com/)
-* [JavaScript.com](https://www.javascript.com/news)
+- [Echo JS](http://www.echojs.com/)
+- [ECMAScript Daily](https://ecmascript-daily.github.io/)
+- [ES.next News](http://esnextnews.com/)
+- [FiveJS](https://fivejs.codeschool.com/)
+- [JavaScript Air](https://javascriptair.com/)
+- [JavaScript Jabber](https://devchat.tv/js-jabber/)
+- [JavaScript Kicks](http://javascriptkicks.com/)
+- [JavaScript Live](https://jslive.com/)
+- [JavaScript Weekly](http://javascriptweekly.com/)
+- [JavaScript.com](https://www.javascript.com/news)
 
 ## Other resources
 
-* Javascript [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* Courses/Tutorials
-  * [Javascript for Beginners (1) EDX](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x-1)
-  * [Javascript for Beginners (2) EDX](https://www.edx.org/course/html5-part-2-advanced-techniques-w3cx-html5-2x-1)
-  * Javascript [The Right Way](http://jstherightway.org/)
-  * Courses.AngularClass.com - Topics Include: webpack, nodejs, npm, es5, es6, esnext, & rxjs, typescript
-    * [[Course Link]](http://courses.angularclass.com/courses/modern-javascript) [[Reddit Post]](https://www.reddit.com/r/learnjavascript/comments/4vz5y6/learn_modern_javascript_for_free_topics_covered/)
-  * Edabit - Learn JavaScript With Interactive Challenges: Earn XP, Unlock Achievements & Climb The Leaderboard
-    * [[Edabit - Website Link]](https://edabit.com/explore) [[Reddit Post]](https://www.reddit.com/r/learnprogramming/comments/5vc3gb/learn_javascript_with_interactive_challenges_earn/)
-  * [Free Advanced JavaScript Courses - Learn Object Oriented Programming, Call Apply, and Bind, Testing, Functional Programming, and much more](https://www.rithmschool.com/courses#advanced-javascript)
-  * [Intermediate Course - Udacity - OOP JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
-  * [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/)
-* Projects
-  * [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/)
-  * [Learn to Code with Projects - enlight.ml](https://enlight.ml/)
-  * **[13 Weeks of JavaScript (Medium)](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533#.xgqnrstd1)** - TONS of links to JS resources
-* Articles/Books
-  * [Recursion, Recursion, Recursion (Medium)](https://medium.freecodecamp.com/recursion-recursion-recursion-4db8890a674d#.dtkatvb6j)
-  * [Eloquent JS](http://eloquentjavascript.net/) - Free JavaScript Ebook
-  * [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Free, hosted on GitHub
-  * [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - learn about the quirky parts of JS
-  * [JS - The Good Parts .pdf](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
-  * [Learning js Design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Reusable solutions to commonly occurring problems
-  * [Asynchronous Module Definition](http://requirejs.org/docs/api.html)
+- Javascript [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- Courses/Tutorials
+  - [Javascript for Beginners (1) EDX](https://www.edx.org/course/html5-part-1-html5-coding-essentials-w3cx-html5-1x-1)
+  - [Javascript for Beginners (2) EDX](https://www.edx.org/course/html5-part-2-advanced-techniques-w3cx-html5-2x-1)
+  - Javascript [The Right Way](http://jstherightway.org/)
+  - Courses.AngularClass.com - Topics Include: webpack, nodejs, npm, es5, es6, esnext, & rxjs, typescript
+    - [[Course Link]](http://courses.angularclass.com/courses/modern-javascript) [[Reddit Post]](https://www.reddit.com/r/learnjavascript/comments/4vz5y6/learn_modern_javascript_for_free_topics_covered/)
+  - Edabit - Learn JavaScript With Interactive Challenges: Earn XP, Unlock Achievements & Climb The Leaderboard
+    - [[Edabit - Website Link]](https://edabit.com/explore) [[Reddit Post]](https://www.reddit.com/r/learnprogramming/comments/5vc3gb/learn_javascript_with_interactive_challenges_earn/)
+  - [Free Advanced JavaScript Courses - Learn Object Oriented Programming, Call Apply, and Bind, Testing, Functional Programming, and much more](https://www.rithmschool.com/courses#advanced-javascript)
+  - [Intermediate Course - Udacity - OOP JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
+  - [JavaScript Tutorial](https://www.sololearn.com/Course/JavaScript/)
+- Projects
+  - [JS 30 For 30 - 30 Projects for 30 Days](https://javascript30.com/)
+  - [Learn to Code with Projects - enlight.ml](https://enlight.ml/)
+  - **[13 Weeks of JavaScript (Medium)](https://medium.com/@___aerox___/the-beginning-of-an-adventure-13-weeks-of-javascript-78107605d533#.xgqnrstd1)*- - TONS of links to JS resources
+- Articles/Books
+  - [Recursion, Recursion, Recursion (Medium)](https://medium.freecodecamp.com/recursion-recursion-recursion-4db8890a674d#.dtkatvb6j)
+  - [Eloquent JS](http://eloquentjavascript.net/) - Free JavaScript Ebook
+  - [You don't know JS](https://github.com/getify/You-Dont-Know-JS) - Free, hosted on GitHub
+  - [JavaScript Garden](http://bonsaiden.github.io/JavaScript-Garden/) - learn about the quirky parts of JS
+  - [JS - The Good Parts .pdf](http://bdcampbell.net/javascript/book/javascript_the_good_parts.pdf)
+  - [Learning js Design patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Reusable solutions to commonly occurring problems
+  - [Asynchronous Module Definition](http://requirejs.org/docs/api.html)
 
-## Deprecated JS Learning Resources:
+## Deprecated JS Learning Resources
 
-* [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) [watch]
-* [Crockford on JavaScript - Chapter 2: And Then There Was JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) [watch]
-* [Crockford on JavaScript - Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM) [watch]
-* [Crockford on JavaScript - Episode IV: The Metamorphosis of Ajax](https://www.youtube.com/watch?v=Fv9qT9joc0M) [watch]
-* [Crockford on JavaScript - Part 5: The End of All Things](https://www.youtube.com/watch?v=47Ceot8yqeI) [watch]
-* [Crockford on JavaScript - Scene 6: Loopage](https://www.youtube.com/watch?v=QgwSUtYSUqA) [watch]
-* [JavaScript Patterns](http://www.amazon.com/gp/product/0596806752/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596806752&linkCode=as2&tag=fronenddevejo-20&linkId=K56OPQZNQNMPF6QI) [read][$]
-* [The Principles of Object-Oriented JavaScript](http://www.amazon.com/gp/product/1593275404/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1593275404&linkCode=as2&tag=fronenddevejo-20&linkId=NQTZVDOIMJRGMAQM) [read][$]
-* [JavaScript Modules](http://jsmodules.io/cjs.html) [read]
-* [Functional JavaScript: Introducing Functional Programming with Underscore.js](http://www.amazon.com/gp/product/1449360726/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449360726&linkCode=as2&tag=fronenddevejo-20&linkId=BDQC3FTEB3YXTYCK) [read][$]
-* [The Good Parts of JavaScript and the Web](https://frontendmasters.com/courses/good-parts-javascript-web/) [watch][$]
-* [High Performance JavaScript (Build Faster Web Application Interfaces)](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=sr_1_1) [read][$]
-* [Advanced JavaScript](https://frontendmasters.com/courses/advanced-javascript/) [watch][$]
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+- [Crockford on JavaScript - Volume 1: The Early Years](https://www.youtube.com/watch?v=JxAXlJEmNMg) [watch]
+- [Crockford on JavaScript - Chapter 2: And Then There Was JavaScript](https://www.youtube.com/watch?v=RO1Wnu-xKoY) [watch]
+- [Crockford on JavaScript - Act III: Function the Ultimate](https://www.youtube.com/watch?v=ya4UHuXNygM) [watch]
+- [Crockford on JavaScript - Episode IV: The Metamorphosis of Ajax](https://www.youtube.com/watch?v=Fv9qT9joc0M) [watch]
+- [Crockford on JavaScript - Part 5: The End of All Things](https://www.youtube.com/watch?v=47Ceot8yqeI) [watch]
+- [Crockford on JavaScript - Scene 6: Loopage](https://www.youtube.com/watch?v=QgwSUtYSUqA) [watch]
+- [JavaScript Patterns](http://www.amazon.com/gp/product/0596806752/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0596806752&linkCode=as2&tag=fronenddevejo-20&linkId=K56OPQZNQNMPF6QI) [read][$]
+- [The Principles of Object-Oriented JavaScript](http://www.amazon.com/gp/product/1593275404/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1593275404&linkCode=as2&tag=fronenddevejo-20&linkId=NQTZVDOIMJRGMAQM) [read][$]
+- [JavaScript Modules](http://jsmodules.io/cjs.html) [read]
+- [Functional JavaScript: Introducing Functional Programming with Underscore.js](http://www.amazon.com/gp/product/1449360726/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=1449360726&linkCode=as2&tag=fronenddevejo-20&linkId=BDQC3FTEB3YXTYCK) [read][$]
+- [The Good Parts of JavaScript and the Web](https://frontendmasters.com/courses/good-parts-javascript-web/) [watch][$]
+- [High Performance JavaScript (Build Faster Web Application Interfaces)](http://www.amazon.com/Performance-JavaScript-Faster-Application-Interfaces/dp/059680279X/ref=sr_1_1) [read][$]
+- [Advanced JavaScript](https://frontendmasters.com/courses/advanced-javascript/) [watch][$]

@@ -1,6 +1,6 @@
 # Learn React & Redux
 
-## React:
+## React
 
 - [React.js Introduction For People Who Know Just Enough jQuery To Get By](http://reactfordesigners.com/labs/reactjs-introduction-for-people-who-know-just-enough-jquery-to-get-by/) [read]
 - [React.js Fundamentals](https://online.reacttraining.com/courses/enrolled/reactjsfundamentals) [watch]
@@ -30,6 +30,7 @@
 
 ## Other Resources 
 
+- [Redux in a single line of code with RxJS](http://rudiyardley.com/redux-single-line-of-code-rxjs/)
 - Official React [Docs](https://facebook.github.io/react/docs/hello-world.html)
 - Official React [Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
 - 3rd Party Tutorials
